@@ -1,0 +1,1 @@
+This is a web app created using django, opencv and yolo to detect the leaves of trees and plants like Mango, Karela, Bhindi, Kosala Saga, Kanta baigana and Nodhia . These plants are very important to the indian agriculture.
